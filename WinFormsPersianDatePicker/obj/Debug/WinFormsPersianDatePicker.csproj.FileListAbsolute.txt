@@ -1,0 +1,5 @@
+C:\Users\e-vas\Desktop\WinFormsPersianDatePicker\WinFormsPersianDatePicker\bin\Debug\WinFormsPersianDatePicker.dll
+C:\Users\e-vas\Desktop\WinFormsPersianDatePicker\WinFormsPersianDatePicker\bin\Debug\WinFormsPersianDatePicker.pdb
+C:\Users\e-vas\Desktop\WinFormsPersianDatePicker\WinFormsPersianDatePicker\obj\Debug\WinFormsPersianDatePicker.csproj.CoreCompileInputs.cache
+C:\Users\e-vas\Desktop\WinFormsPersianDatePicker\WinFormsPersianDatePicker\obj\Debug\WinFormsPersianDatePicker.dll
+C:\Users\e-vas\Desktop\WinFormsPersianDatePicker\WinFormsPersianDatePicker\obj\Debug\WinFormsPersianDatePicker.pdb
